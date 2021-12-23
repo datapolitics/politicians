@@ -101,7 +101,7 @@
     {
         "first_name": "Jean-Christophe",
         "last_name": "Lagarde",
-        "channels": [
+        "youtube_channels": [
             {
                 "id": "UCcsw3rWMB_E73VEm_hoS36w",
                 "title": "Jean-Christophe Lagarde",
@@ -116,7 +116,7 @@
     {
         "first_name": "Emmanuel",
         "last_name": "Macron",
-        "channels": [
+        "youtube_channels": [
             {
                 "id": "UCFqGa9uitcB-fWyNZK2xImw",
                 "title": "Emmanuel Macron",
@@ -136,7 +136,7 @@
     {
         "first_name": "Jean-Frédéric",
         "last_name": "Poisson",
-        "channels": [
+        "youtube_channels": [
             {
                 "id": "UCPcBBzCzr2xmV6MOMZJpjSg",
                 "title": "Jean-Frédéric Poisson",
@@ -151,7 +151,7 @@
     {
         "first_name": "Valérie",
         "last_name": "Pécresse",
-        "channels": [
+        "youtube_channels": [
             {
                 "id": "UC3Ma4tRFxx85oZI_XKVTPwg",
                 "title": "les Républicains",
@@ -171,7 +171,7 @@
     {
         "first_name": "Nicolas",
         "last_name": "Dupont-Aignan",
-        "channels": [
+        "youtube_channels": [
             {
                 "id": "UCfA5DnCDX3Ixy5QOAMGtBlA",
                 "title": "Nicolas Dupont-Aignan",
@@ -186,7 +186,7 @@
     {
         "first_name": "Marine",
         "last_name": "Le Pen",
-        "channels": [
+        "youtube_channels": [
             {
                 "id": "UCU3z3px1_RCqYBwrs8LJVWg",
                 "title": "Marine Le Pen",
@@ -206,7 +206,7 @@
     {
         "first_name": "Eric",
         "last_name": "Zemmour",
-        "channels": [
+        "youtube_channels": [
             {
                 "id": "UCjTbZBXEw-gplUAnMXLYHpg",
                 "title": "Éric Zemmour",
@@ -221,7 +221,7 @@
     {
         "first_name": "François",
         "last_name": "Asselineau",
-        "channels": [
+        "youtube_channels": [
             {
                 "id": "UC7OMeUFuZMacpPk2fc9UlOA",
                 "title": "Union Populaire Républicaine",
@@ -236,7 +236,7 @@
     {
         "first_name": "Jean",
         "last_name": "Lassalle",
-        "channels": [
+        "youtube_channels": [
             {
                 "id": "UCdUat4f2yol7iMpCYoFUmNg",
                 "title": "Jean Lassalle",
@@ -251,7 +251,7 @@
     {
         "first_name": "Florian",
         "last_name": "Philippot",
-        "channels": [
+        "youtube_channels": [
             {
                 "id": "UClaa_CwoQEmSo9Mb_M1f91g",
                 "title": "FLORIAN PHILIPPOT",
@@ -272,7 +272,7 @@
     {
         "first_name": "Arnaud",
         "last_name": "Montebourg",
-        "channels": [
+        "youtube_channels": [
             {
                 "id": "UCAFL736cEc45MMyWSOtABXA",
                 "title": "Arnaud Montebourg",
@@ -288,7 +288,7 @@
     {
         "first_name": "Christiane",
         "last_name": "Taubira",
-        "channels": [],
+        "youtube_channels": [],
         "parti": "Walwari",
         "parti_short": "W",
         "twitter":"ChTaubira",
