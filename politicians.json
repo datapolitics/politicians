@@ -44,8 +44,9 @@
                 "link": "https://www.youtube.com/channel/UCKHKSD-yanY2ZwwU_4Tgf0w"
             }
         ],
-        "parti": "La France insoumise",
-        "parti_short": "LFI",
+        "twitter":"JLMelenchon",
+        "party": "La France insoumise",
+        "party_short": "LFI",
         "color":"far_left"
     },
     {
@@ -58,6 +59,7 @@
                 "link": "https://www.youtube.com/c/CNPCF"
             }
         ],
+        "twitter":"Fabien_Roussel",
         "party": "Parti communiste fran\u00e7ais",
         "party_short": "PCF",
         "color":"far_left"
@@ -73,6 +75,7 @@
                 "link": "https://www.youtube.com/c/partisocialiste"
             }
         ],
+        "twitter":"Anne_Hidalgo",
         "party": "Parti socialiste",
         "party_short": "PS",
         "color":"left"
@@ -92,6 +95,7 @@
                 "link": "https://www.youtube.com/c/EelvFr"
             }
         ],
+        "twitter":"yjadot",
         "party": "Europe Ecologie-Les Verts",
         "party_short": "EELV",
         "twitter":"yjadot",
