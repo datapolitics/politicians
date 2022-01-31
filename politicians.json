@@ -1,5 +1,6 @@
 [
     {
+        "id":"arthaud",
         "first_name": "Nathalie",
         "last_name": "Arthaud",
         "party": "Lutte ouvrière",
@@ -15,6 +16,7 @@
         "color":"far_left"
     },
     {
+        "id":"poutou",
         "first_name": "Philippe",
         "last_name": "Poutou",
         "party": "Nouveau parti anticapitaliste",
@@ -30,6 +32,7 @@
         "color":"far_left"
     },
     {
+        "id":"mélenchon",
         "first_name": "Jean-Luc",
         "last_name": "Mélenchon",
         "youtube_channels": [
@@ -50,6 +53,7 @@
         "color":"far_left"
     },
     {
+        "id":"roussel",
         "first_name": "Fabien",
         "last_name": "Roussel",
         "youtube_channels": [
@@ -66,6 +70,7 @@
 
     },
     {
+        "id":"hidalgo",
         "first_name": "Anne",
         "last_name": "Hidalgo",
         "youtube_channels": [
@@ -81,6 +86,7 @@
         "color":"left"
     },
     {
+        "id":"jadot",
         "first_name": "Yannick",
         "last_name": "Jadot",
         "youtube_channels": [
@@ -103,6 +109,7 @@
 
     },
     {
+        "id":"lagarde",
         "first_name": "Jean-Christophe",
         "last_name": "Lagarde",
         "youtube_channels": [
@@ -118,6 +125,7 @@
         "color":"center"
     },
     {
+        "id":"macron",
         "first_name": "Emmanuel",
         "last_name": "Macron",
         "youtube_channels": [
@@ -138,6 +146,7 @@
         "color":"center"
     },
     {
+        "id":"poisson",
         "first_name": "Jean-Frédéric",
         "last_name": "Poisson",
         "youtube_channels": [
@@ -153,6 +162,7 @@
         "color":"center"
     },
     {
+        "id":"pécresse",
         "first_name": "Valérie",
         "last_name": "Pécresse",
         "youtube_channels": [
@@ -173,6 +183,7 @@
         "color":"right"
     },
     {
+        "id":"dupontaignan",
         "first_name": "Nicolas",
         "last_name": "Dupont-Aignan",
         "youtube_channels": [
@@ -188,6 +199,7 @@
        "color":"far-right"
     },
     {
+        "id":"lepen",
         "first_name": "Marine",
         "last_name": "Le Pen",
         "youtube_channels": [
@@ -208,6 +220,7 @@
         "color":"far-right"
     },
     {
+        "id":"zemmour",
         "first_name": "Eric",
         "last_name": "Zemmour",
         "youtube_channels": [
@@ -223,6 +236,7 @@
         "color":"far-right"
     },
     {
+        "id":"asselineau",
         "first_name": "François",
         "last_name": "Asselineau",
         "youtube_channels": [
@@ -238,6 +252,7 @@
         "color":"unclear"
     },
     {
+        "id":"lassalle",
         "first_name": "Jean",
         "last_name": "Lassalle",
         "youtube_channels": [
@@ -253,6 +268,7 @@
         "color":"unclear"
     },
     {
+        "id":"philippot",
         "first_name": "Florian",
         "last_name": "Philippot",
         "youtube_channels": [
@@ -274,6 +290,7 @@
     },
 
     {
+        "id":"montebourg",
         "first_name": "Arnaud",
         "last_name": "Montebourg",
         "youtube_channels": [
@@ -290,6 +307,7 @@
     },
     
     {
+        "id":"taubira",
         "first_name": "Christiane",
         "last_name": "Taubira",
         "youtube_channels": [],
