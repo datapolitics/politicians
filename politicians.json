@@ -1,319 +1,375 @@
 [
-    {
-        "id":"arthaud",
-        "first_name": "Nathalie",
-        "last_name": "Arthaud",
-        "party": "Lutte ouvrière",
-        "party_short": "LO",
-        "youtube_channels": [
-            {
-                "id": "UCZsh-MrJftAOP_-ZgRgLScw",
-                "title": "Nathalie Arthaud",
-                "link": "https://www.youtube.com/c/NathalieArthaudLutteOuvriere"
-            }
-        ],
-        "twitter":"n_arthaud",
-        "color":"far_left"
-    },
-    {
-        "id":"poutou",
-        "first_name": "Philippe",
-        "last_name": "Poutou",
-        "party": "Nouveau parti anticapitaliste",
-        "party_short": "NPA",
-        "youtube_channels": [
-            {
-                "id": "UCAKzgWr5laB3Yf44hvqqZZQ",
-                "title": "NPA - L’Anticapitaliste",
-                "link": "https://www.youtube.com/c/NPAL%E2%80%99Anticapitaliste"
-            }
-        ],
-        "twitter":"PhilippePoutou",
-        "color":"far_left"
-    },
-    {
-        "id":"mélenchon",
-        "first_name": "Jean-Luc",
-        "last_name": "Mélenchon",
-        "youtube_channels": [
-            {
-                "id": "UCk-_PEY3iC6DIGJKuoEe9bw",
-                "title": "JEAN-LUC MÉLENCHON",
-                "link": "https://www.youtube.com/c/JLMelenchon"
-            },
-            {
-                "id": "UCKHKSD-yanY2ZwwU_4Tgf0w",
-                "title": "La France insoumise",
-                "link": "https://www.youtube.com/channel/UCKHKSD-yanY2ZwwU_4Tgf0w"
-            }
-        ],
-        "twitter":"JLMelenchon",
-        "party": "La France insoumise",
-        "party_short": "LFI",
-        "color":"far_left"
-    },
-    {
-        "id":"roussel",
-        "first_name": "Fabien",
-        "last_name": "Roussel",
-        "youtube_channels": [
-            {
-                "id": "UCSwPcnzaMTuDcTgjRiJvZnw",
-                "title": "PCF - Parti communiste français",
-                "link": "https://www.youtube.com/c/CNPCF"
-            }
-        ],
-        "twitter":"Fabien_Roussel",
-        "party": "Parti communiste fran\u00e7ais",
-        "party_short": "PCF",
-        "color":"far_left"
-
-    },
-    {
-        "id":"hidalgo",
-        "first_name": "Anne",
-        "last_name": "Hidalgo",
-        "youtube_channels": [
-            {
-                "id": "UCo7xGEOV-RfxOAxRfhlR3Ww",
-                "title": "PS - Parti socialiste",
-                "link": "https://www.youtube.com/c/partisocialiste"
-            }
-        ],
-        "twitter":"Anne_Hidalgo",
-        "party": "Parti socialiste",
-        "party_short": "PS",
-        "color":"left"
-    },
-    {
-        "id":"jadot",
-        "first_name": "Yannick",
-        "last_name": "Jadot",
-        "youtube_channels": [
-            {
-                "id": "UCsUMhb2ygeTSS2mXLTIDHMQ",
-                "title": "Yannick Jadot",
-                "link": "https://www.youtube.com/c/YannickJadotOfficiel"
-            },
-            {
-                "id": "UCB8Q3N-nvX1YlMUL7Zl_16w",
-                "title": "Europe Écologie Les Verts",
-                "link": "https://www.youtube.com/c/EelvFr"
-            }
-        ],
-        "twitter":"yjadot",
-        "party": "Europe Ecologie-Les Verts",
-        "party_short": "EELV",
-        "twitter":"yjadot",
-        "color":"green"
-
-    },
-    {
-        "id":"lagarde",
-        "first_name": "Jean-Christophe",
-        "last_name": "Lagarde",
-        "youtube_channels": [
-            {
-                "id": "UCcsw3rWMB_E73VEm_hoS36w",
-                "title": "Jean-Christophe Lagarde",
-                "link": "https://www.youtube.com/channel/UCcsw3rWMB_E73VEm_hoS36w"
-            }
-        ],
-        "party": "Union des démocrates et indépendants",
-        "party_short": "UDI",
-        "twitter":"jclagarde",
-        "color":"center"
-    },
-    {
-        "id":"macron",
-        "first_name": "Emmanuel",
-        "last_name": "Macron",
-        "youtube_channels": [
-            {
-                "id": "UCFqGa9uitcB-fWyNZK2xImw",
-                "title": "Emmanuel Macron",
-                "link": "https://www.youtube.com/c/EmmanuelMacron"
-            },
-            {
-                "id": "UCJw8np695wqWOaKVhFjkRyg",
-                "title": "La République En Marche !",
-                "link": "https://www.youtube.com/c/EnMarcheFr"
-            }
-        ],
-        "parti": "La R\u00e9publique en marche",
-        "parti_short": "LRM",
-        "twitter":"EmmanuelMacron",
-        "color":"center"
-    },
-    {
-        "id":"poisson",
-        "first_name": "Jean-Frédéric",
-        "last_name": "Poisson",
-        "youtube_channels": [
-            {
-                "id": "UCPcBBzCzr2xmV6MOMZJpjSg",
-                "title": "Jean-Frédéric Poisson",
-                "link": "https://www.youtube.com/c/JeanFr%C3%A9d%C3%A9ricPoissonOfficiel"
-            }
-        ],
-        "parti": "La R\u00e9publique en marche",
-        "parti_short": "LRM",
-        "twitter":"jfpoisson78",
-        "color":"center"
-    },
-    {
-        "id":"pécresse",
-        "first_name": "Valérie",
-        "last_name": "Pécresse",
-        "youtube_channels": [
-            {
-                "id": "UC3Ma4tRFxx85oZI_XKVTPwg",
-                "title": "les Républicains",
-                "link": "https://www.youtube.com/c/lesR%C3%A9publicains"
-            },
-            {
-                "id": "UCXAKlEXGwoavQuOMaNBeaXw",
-                "title": "Valérie Pécresse",
-                "link": "https://www.youtube.com/channel/UCXAKlEXGwoavQuOMaNBeaXw"
-            }
-        ],
-        "parti": "Libres !",
-        "parti_short": "",
-        "twitter":"vpecresse",
-        "color":"right"
-    },
-    {
-        "id":"dupontaignan",
-        "first_name": "Nicolas",
-        "last_name": "Dupont-Aignan",
-        "youtube_channels": [
-            {
-                "id": "UCfA5DnCDX3Ixy5QOAMGtBlA",
-                "title": "Nicolas Dupont-Aignan",
-                "link": "https://www.youtube.com/c/DEBOUTLAFRANCE"
-            }
-        ],
-       "parti": "Debout la France",
-       "parti_short": "DLF",
-       "twitter":"dupontaignan",
-       "color":"far-right"
-    },
-    {
-        "id":"lepen",
-        "first_name": "Marine",
-        "last_name": "Le Pen",
-        "youtube_channels": [
-            {
-                "id": "UCU3z3px1_RCqYBwrs8LJVWg",
-                "title": "Marine Le Pen",
-                "link": "https://www.youtube.com/c/MarineLePenOfficiel"
-            },
-            {
-                "id": "UCeWMp4Frgyv275gSnWNYoZQ",
-                "title": "Rassemblement National",
-                "link": "https://www.youtube.com/c/RassemblementNationalOfficiel"
-            }
-        ],
-        "parti": "Rassemblement national",
-        "parti_short": "RN",
-        "twitter":"MLP_officiel",
-        "color":"far-right"
-    },
-    {
-        "id":"zemmour",
-        "first_name": "Eric",
-        "last_name": "Zemmour",
-        "youtube_channels": [
-            {
-                "id": "UCjTbZBXEw-gplUAnMXLYHpg",
-                "title": "Éric Zemmour",
-                "link": "https://www.youtube.com/c/%C3%89ricZemmourOfficiel"
-            }
-        ],
-        "parti": "Indépendant",
-        "parti_short": "",
-        "twitter":"ZemmourEric",
-        "color":"far-right"
-    },
-    {
-        "id":"asselineau",
-        "first_name": "François",
-        "last_name": "Asselineau",
-        "youtube_channels": [
-            {
-                "id": "UC7OMeUFuZMacpPk2fc9UlOA",
-                "title": "Union Populaire Républicaine",
-                "link": "https://www.youtube.com/c/UprFr"
-            }
-        ],
-        "parti": "Union populaire républicaine ",
-        "parti_short": "UPR",
-        "twitter":"UPR_Asselineau",
-        "color":"unclear"
-    },
-    {
-        "id":"lassalle",
-        "first_name": "Jean",
-        "last_name": "Lassalle",
-        "youtube_channels": [
-            {
-                "id": "UCdUat4f2yol7iMpCYoFUmNg",
-                "title": "Jean Lassalle",
-                "link": "https://www.youtube.com/c/JeanLassalleOfficiel"
-            }
-        ],
-        "parti": "Résistons",
-        "parti_short": "",
-        "twitter":"jeanlassalle",
-        "color":"unclear"
-    },
-    {
-        "id":"philippot",
-        "first_name": "Florian",
-        "last_name": "Philippot",
-        "youtube_channels": [
-            {
-                "id": "UClaa_CwoQEmSo9Mb_M1f91g",
-                "title": "FLORIAN PHILIPPOT",
-                "link": "https://www.youtube.com/c/FLORIANPHILIPPOT1"
-            },
-            {
-                "id": "UCeWMp4Frgyv275gSnWNYoZQ",
-                "title": "Rassemblement National",
-                "link": "https://www.youtube.com/c/RassemblementNationalOfficiel"
-            }
-        ],
-        "parti": "Les Patriotes",
-        "parti_short": "",
-        "twitter":"f_philippot",
-        "color":"far-right"
-    },
-
-    {
-        "id":"montebourg",
-        "first_name": "Arnaud",
-        "last_name": "Montebourg",
-        "youtube_channels": [
-            {
-                "id": "UCAFL736cEc45MMyWSOtABXA",
-                "title": "Arnaud Montebourg",
-                "link": "https://www.youtube.com/c/ArnaudMontebourgLaRemontada"
-            }
-        ],
-        "parti": "L'Engagement",
-        "parti_short": "",
-        "twitter":"montebourg",
-        "couleur": "left"
-    },
-    
-    {
-        "id":"taubira",
-        "first_name": "Christiane",
-        "last_name": "Taubira",
-        "youtube_channels": [],
-        "parti": "Walwari",
-        "parti_short": "W",
-        "twitter":"ChTaubira",
-        "couleur": "left"
-    }
+  {
+    "id": "arthaud",
+    "first_name": "Nathalie",
+    "last_name": "Arthaud",
+    "party": "Lutte Ouvrière",
+    "party_short": "LO",
+    "youtube_channels": [
+      {
+        "id": "UCZsh-MrJftAOP_-ZgRgLScw",
+        "title": "Nathalie Arthaud",
+        "link": "https://www.youtube.com/c/NathalieArthaudLutteOuvriere"
+      }
+    ],
+    "twitter": "n_arthaud",
+    "mentions": [
+      "Arthaud"
+    ],
+    "color": "far_left"
+  },
+  {
+    "id": "poutou",
+    "first_name": "Philippe",
+    "last_name": "Poutou",
+    "party": "Nouveau parti anticapitaliste",
+    "party_short": "NPA",
+    "youtube_channels": [
+      {
+        "id": "UCAKzgWr5laB3Yf44hvqqZZQ",
+        "title": "NPA - L’Anticapitaliste",
+        "link": "https://www.youtube.com/c/NPAL%E2%80%99Anticapitaliste"
+      }
+    ],
+    "twitter": "PhilippePoutou",
+    "mentions": [
+      "Poutou"
+    ],
+    "color": "far_left"
+  },
+  {
+    "id": "mélenchon",
+    "first_name": "Jean-Luc",
+    "last_name": "Mélenchon",
+    "youtube_channels": [
+      {
+        "id": "UCk-_PEY3iC6DIGJKuoEe9bw",
+        "title": "JEAN-LUC MÉLENCHON",
+        "link": "https://www.youtube.com/c/JLMelenchon"
+      },
+      {
+        "id": "UCKHKSD-yanY2ZwwU_4Tgf0w",
+        "title": "La France insoumise",
+        "link": "https://www.youtube.com/channel/UCKHKSD-yanY2ZwwU_4Tgf0w"
+      }
+    ],
+    "twitter": "JLMelenchon",
+    "party": "La France insoumise",
+    "party_short": "LFI",
+    "mentions": [
+      "Mélenchon"
+    ],
+    "color": "far_left"
+  },
+  {
+    "id": "roussel",
+    "first_name": "Fabien",
+    "last_name": "Roussel",
+    "youtube_channels": [
+      {
+        "id": "UCSwPcnzaMTuDcTgjRiJvZnw",
+        "title": "PCF - Parti communiste français",
+        "link": "https://www.youtube.com/c/CNPCF"
+      }
+    ],
+    "twitter": "Fabien_Roussel",
+    "party": "Parti communiste fran\u00e7ais",
+    "party_short": "PCF",
+    "mentions": [
+      "Roussel"
+    ],
+    "color": "far_left"
+  },
+  {
+    "id": "hidalgo",
+    "first_name": "Anne",
+    "last_name": "Hidalgo",
+    "youtube_channels": [
+      {
+        "id": "UCo7xGEOV-RfxOAxRfhlR3Ww",
+        "title": "PS - Parti socialiste",
+        "link": "https://www.youtube.com/c/partisocialiste"
+      }
+    ],
+    "twitter": "Anne_Hidalgo",
+    "party": "Parti socialiste",
+    "party_short": "PS",
+    "color": "left",
+    "mentions": [
+      "Hidalgo"
+    ]
+  },
+  {
+    "id": "jadot",
+    "first_name": "Yannick",
+    "last_name": "Jadot",
+    "youtube_channels": [
+      {
+        "id": "UCsUMhb2ygeTSS2mXLTIDHMQ",
+        "title": "Yannick Jadot",
+        "link": "https://www.youtube.com/c/YannickJadotOfficiel"
+      },
+      {
+        "id": "UCB8Q3N-nvX1YlMUL7Zl_16w",
+        "title": "Europe Écologie Les Verts",
+        "link": "https://www.youtube.com/c/EelvFr"
+      }
+    ],
+    "twitter": "yjadot",
+    "party": "Europe Ecologie-Les Verts",
+    "party_short": "EELV",
+    "twitter": "yjadot",
+    "mentions": [
+      "Jadot"
+    ],
+    "color": "green"
+  },
+  {
+    "id": "lagarde",
+    "first_name": "Jean-Christophe",
+    "last_name": "Lagarde",
+    "youtube_channels": [
+      {
+        "id": "UCcsw3rWMB_E73VEm_hoS36w",
+        "title": "Jean-Christophe Lagarde",
+        "link": "https://www.youtube.com/channel/UCcsw3rWMB_E73VEm_hoS36w"
+      }
+    ],
+    "party": "Union des démocrates et indépendants",
+    "party_short": "UDI",
+    "twitter": "jclagarde",
+    "mentions": [
+      "M. Lagarde",
+      "Monsieur Lagarde",
+      "Jean-Christophe Lagarde"
+    ],
+    "color": "center"
+  },
+  {
+    "id": "macron",
+    "first_name": "Emmanuel",
+    "last_name": "Macron",
+    "youtube_channels": [
+      {
+        "id": "UCFqGa9uitcB-fWyNZK2xImw",
+        "title": "Emmanuel Macron",
+        "link": "https://www.youtube.com/c/EmmanuelMacron"
+      },
+      {
+        "id": "UCJw8np695wqWOaKVhFjkRyg",
+        "title": "La République En Marche !",
+        "link": "https://www.youtube.com/c/EnMarcheFr"
+      }
+    ],
+    "parti": "La R\u00e9publique en marche",
+    "parti_short": "LRM",
+    "twitter": "EmmanuelMacron",
+    "mentions": [
+      "Macron"
+    ],
+    "color": "center"
+  },
+  {
+    "id": "poisson",
+    "first_name": "Jean-Frédéric",
+    "last_name": "Poisson",
+    "youtube_channels": [
+      {
+        "id": "UCPcBBzCzr2xmV6MOMZJpjSg",
+        "title": "Jean-Frédéric Poisson",
+        "link": "https://www.youtube.com/c/JeanFr%C3%A9d%C3%A9ricPoissonOfficiel"
+      }
+    ],
+    "parti": "La R\u00e9publique en marche",
+    "parti_short": "LRM",
+    "twitter": "jfpoisson78",
+    "mentions": [
+      "M. Poisson",
+      "Monsieur Poisson",
+      "Jean-Frédéric Poisson"
+    ],
+    "color": "center"
+  },
+  {
+    "id": "pécresse",
+    "first_name": "Valérie",
+    "last_name": "Pécresse",
+    "youtube_channels": [
+      {
+        "id": "UC3Ma4tRFxx85oZI_XKVTPwg",
+        "title": "les Républicains",
+        "link": "https://www.youtube.com/c/lesR%C3%A9publicains"
+      },
+      {
+        "id": "UCXAKlEXGwoavQuOMaNBeaXw",
+        "title": "Valérie Pécresse",
+        "link": "https://www.youtube.com/channel/UCXAKlEXGwoavQuOMaNBeaXw"
+      }
+    ],
+    "party": "Libres !",
+    "party_short": "",
+    "twitter": "vpecresse",
+    "mentions": [
+      "Pécresse"
+    ],
+    "color": "right"
+  },
+  {
+    "id": "dupontaignan",
+    "first_name": "Nicolas",
+    "last_name": "Dupont-Aignan",
+    "youtube_channels": [
+      {
+        "id": "UCfA5DnCDX3Ixy5QOAMGtBlA",
+        "title": "Nicolas Dupont-Aignan",
+        "link": "https://www.youtube.com/c/DEBOUTLAFRANCE"
+      }
+    ],
+    "party": "Debout la France",
+    "party_short": "DLF",
+    "twitter": "dupontaignan",
+    "mentions": [
+      "Dupont-Aignan"
+    ],
+    "color": "far-right"
+  },
+  {
+    "id": "lepen",
+    "first_name": "Marine",
+    "last_name": "Le Pen",
+    "youtube_channels": [
+      {
+        "id": "UCU3z3px1_RCqYBwrs8LJVWg",
+        "title": "Marine Le Pen",
+        "link": "https://www.youtube.com/c/MarineLePenOfficiel"
+      },
+      {
+        "id": "UCeWMp4Frgyv275gSnWNYoZQ",
+        "title": "Rassemblement National",
+        "link": "https://www.youtube.com/c/RassemblementNationalOfficiel"
+      }
+    ],
+    "party": "Rassemblement national",
+    "party_short": "RN",
+    "twitter": "MLP_officiel",
+    "mentions": [
+      "Mme Le Pen",
+      "Madame Le Pen",
+      "Marine Le Pen"
+    ],
+    "color": "far-right"
+  },
+  {
+    "id": "zemmour",
+    "first_name": "Eric",
+    "last_name": "Zemmour",
+    "youtube_channels": [
+      {
+        "id": "UCjTbZBXEw-gplUAnMXLYHpg",
+        "title": "Éric Zemmour",
+        "link": "https://www.youtube.com/c/%C3%89ricZemmourOfficiel"
+      }
+    ],
+    "party": "Reconquête",
+    "party_short": "R!",
+    "twitter": "ZemmourEric",
+    "mentions": [
+      "Zemmour"
+    ],
+    "color": "far-right"
+  },
+  {
+    "id": "asselineau",
+    "first_name": "François",
+    "last_name": "Asselineau",
+    "youtube_channels": [
+      {
+        "id": "UC7OMeUFuZMacpPk2fc9UlOA",
+        "title": "Union Populaire Républicaine",
+        "link": "https://www.youtube.com/c/UprFr"
+      }
+    ],
+    "parti": "Union populaire républicaine ",
+    "parti_short": "UPR",
+    "twitter": "UPR_Asselineau",
+    "mentions": [
+      "Asselineau"
+    ],
+    "color": "unclear"
+  },
+  {
+    "id": "lassalle",
+    "first_name": "Jean",
+    "last_name": "Lassalle",
+    "youtube_channels": [
+      {
+        "id": "UCdUat4f2yol7iMpCYoFUmNg",
+        "title": "Jean Lassalle",
+        "link": "https://www.youtube.com/c/JeanLassalleOfficiel"
+      }
+    ],
+    "parti": "Résistons",
+    "parti_short": "",
+    "twitter": "jeanlassalle",
+    "mentions": [
+      "Lassalle"
+    ],
+    "color": "unclear"
+  },
+  {
+    "id": "philippot",
+    "first_name": "Florian",
+    "last_name": "Philippot",
+    "youtube_channels": [
+      {
+        "id": "UClaa_CwoQEmSo9Mb_M1f91g",
+        "title": "FLORIAN PHILIPPOT",
+        "link": "https://www.youtube.com/c/FLORIANPHILIPPOT1"
+      },
+      {
+        "id": "UCeWMp4Frgyv275gSnWNYoZQ",
+        "title": "Rassemblement National",
+        "link": "https://www.youtube.com/c/RassemblementNationalOfficiel"
+      }
+    ],
+    "parti": "Les Patriotes",
+    "parti_short": "",
+    "twitter": "f_philippot",
+    "mentions": [
+      "Philippot"
+    ],
+    "color": "far-right"
+  },
+  {
+    "id": "montebourg",
+    "first_name": "Arnaud",
+    "last_name": "Montebourg",
+    "youtube_channels": [
+      {
+        "id": "UCAFL736cEc45MMyWSOtABXA",
+        "title": "Arnaud Montebourg",
+        "link": "https://www.youtube.com/c/ArnaudMontebourgLaRemontada"
+      }
+    ],
+    "parti": "L'Engagement",
+    "parti_short": "",
+    "twitter": "montebourg",
+    "mentions": [
+      "Montebourg"
+    ],
+    "couleur": "left"
+  },
+  {
+    "id": "taubira",
+    "first_name": "Christiane",
+    "last_name": "Taubira",
+    "youtube_channels": [],
+    "parti": "Walwari",
+    "parti_short": "W",
+    "twitter": "ChTaubira",
+    "mentions": [
+      "Taubira"
+    ],
+    "couleur": "left"
+  }
 ]
