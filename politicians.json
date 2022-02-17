@@ -16,13 +16,14 @@
     "mentions": [
       "Arthaud"
     ],
-    "color": "far_left"
+    "color": "far_left",
+    "html_color": "#bb191c"
   },
   {
     "id": "poutou",
     "first_name": "Philippe",
     "last_name": "Poutou",
-    "party": "Nouveau parti anticapitaliste",
+    "party": "Nouveau party anticapitaliste",
     "party_short": "NPA",
     "youtube_channels": [
       {
@@ -35,7 +36,8 @@
     "mentions": [
       "Poutou"
     ],
-    "color": "far_left"
+    "color": "far_left",
+    "html_color": "#bb191c"
   },
   {
     "id": "mélenchon",
@@ -59,7 +61,8 @@
     "mentions": [
       "Mélenchon"
     ],
-    "color": "far_left"
+    "color": "far_left",
+    "html_color": "#bb191c"
   },
   {
     "id": "roussel",
@@ -68,17 +71,18 @@
     "youtube_channels": [
       {
         "id": "UCSwPcnzaMTuDcTgjRiJvZnw",
-        "title": "PCF - Parti communiste français",
+        "title": "PCF - party communiste français",
         "link": "https://www.youtube.com/c/CNPCF"
       }
     ],
     "twitter": "Fabien_Roussel",
-    "party": "Parti communiste fran\u00e7ais",
+    "party": "party communiste fran\u00e7ais",
     "party_short": "PCF",
     "mentions": [
       "Roussel"
     ],
-    "color": "far_left"
+    "color": "far_left",
+    "html_color": "#bb191c"
   },
   {
     "id": "hidalgo",
@@ -87,17 +91,18 @@
     "youtube_channels": [
       {
         "id": "UCo7xGEOV-RfxOAxRfhlR3Ww",
-        "title": "PS - Parti socialiste",
-        "link": "https://www.youtube.com/c/partisocialiste"
+        "title": "PS - party socialiste",
+        "link": "https://www.youtube.com/c/partysocialiste"
       }
     ],
     "twitter": "Anne_Hidalgo",
-    "party": "Parti socialiste",
+    "party": "party socialiste",
     "party_short": "PS",
     "color": "left",
     "mentions": [
       "Hidalgo"
-    ]
+    ],
+    "html_color": "#f8a5be"
   },
   {
     "id": "jadot",
@@ -122,7 +127,8 @@
     "mentions": [
       "Jadot"
     ],
-    "color": "green"
+    "color": "green",
+    "html_color": "#4c946a"
   },
   {
     "id": "lagarde",
@@ -143,7 +149,8 @@
       "Monsieur Lagarde",
       "Jean-Christophe Lagarde"
     ],
-    "color": "center"
+    "color": "center",
+    "html_color": "#f69b36"
   },
   {
     "id": "macron",
@@ -161,13 +168,14 @@
         "link": "https://www.youtube.com/c/EnMarcheFr"
       }
     ],
-    "parti": "La R\u00e9publique en marche",
-    "parti_short": "LRM",
+    "party": "La R\u00e9publique en marche",
+    "party_short": "LRM",
     "twitter": "EmmanuelMacron",
     "mentions": [
       "Macron"
     ],
-    "color": "center"
+    "color": "center",
+    "html_color": "#f69b36"
   },
   {
     "id": "poisson",
@@ -180,15 +188,16 @@
         "link": "https://www.youtube.com/c/JeanFr%C3%A9d%C3%A9ricPoissonOfficiel"
       }
     ],
-    "parti": "La R\u00e9publique en marche",
-    "parti_short": "LRM",
+    "party": "La Voix du Peuple",
+    "party_short": "VIA",
     "twitter": "jfpoisson78",
     "mentions": [
       "M. Poisson",
       "Monsieur Poisson",
       "Jean-Frédéric Poisson"
     ],
-    "color": "center"
+    "color": "center",
+    "html_color": "#29609a"
   },
   {
     "id": "pécresse",
@@ -206,13 +215,14 @@
         "link": "https://www.youtube.com/channel/UCXAKlEXGwoavQuOMaNBeaXw"
       }
     ],
-    "party": "Libres !",
-    "party_short": "",
+    "party": "Les Républicains",
+    "party_short": "LR",
     "twitter": "vpecresse",
     "mentions": [
       "Pécresse"
     ],
-    "color": "right"
+    "color": "right",
+    "html_color": "#29609a"
   },
   {
     "id": "dupontaignan",
@@ -231,7 +241,8 @@
     "mentions": [
       "Dupont-Aignan"
     ],
-    "color": "far-right"
+    "color": "far-right",
+    "html_color": "#030031"
   },
   {
     "id": "lepen",
@@ -257,7 +268,8 @@
       "Madame Le Pen",
       "Marine Le Pen"
     ],
-    "color": "far-right"
+    "color": "far-right",
+    "html_color": "#030031"
   },
   {
     "id": "zemmour",
@@ -276,7 +288,8 @@
     "mentions": [
       "Zemmour"
     ],
-    "color": "far-right"
+    "color": "far-right",
+    "html_color": "#9042f5"
   },
   {
     "id": "asselineau",
@@ -289,13 +302,14 @@
         "link": "https://www.youtube.com/c/UprFr"
       }
     ],
-    "parti": "Union populaire républicaine ",
-    "parti_short": "UPR",
+    "party": "Union populaire républicaine ",
+    "party_short": "UPR",
     "twitter": "UPR_Asselineau",
     "mentions": [
       "Asselineau"
     ],
-    "color": "unclear"
+    "color": "unclear",
+    "html_color": "#29609a"
   },
   {
     "id": "lassalle",
@@ -308,13 +322,14 @@
         "link": "https://www.youtube.com/c/JeanLassalleOfficiel"
       }
     ],
-    "parti": "Résistons",
-    "parti_short": "",
+    "party": "Résistons",
+    "party_short": "",
     "twitter": "jeanlassalle",
     "mentions": [
       "Lassalle"
     ],
-    "color": "unclear"
+    "color": "unclear",
+    "html_color": "#f8cb00"
   },
   {
     "id": "philippot",
@@ -332,13 +347,14 @@
         "link": "https://www.youtube.com/c/RassemblementNationalOfficiel"
       }
     ],
-    "parti": "Les Patriotes",
-    "parti_short": "",
+    "party": "Les Patriotes",
+    "party_short": "",
     "twitter": "f_philippot",
     "mentions": [
       "Philippot"
     ],
-    "color": "far-right"
+    "color": "far-right",
+    "html_color": "#083261"
   },
   {
     "id": "montebourg",
@@ -351,25 +367,27 @@
         "link": "https://www.youtube.com/c/ArnaudMontebourgLaRemontada"
       }
     ],
-    "parti": "L'Engagement",
-    "parti_short": "",
+    "party": "L'Engagement",
+    "party_short": "",
     "twitter": "montebourg",
     "mentions": [
       "Montebourg"
     ],
-    "couleur": "left"
+    "color": "left",
+    "html_color": "#9E2A5B"
   },
   {
     "id": "taubira",
     "first_name": "Christiane",
     "last_name": "Taubira",
     "youtube_channels": [],
-    "parti": "Walwari",
-    "parti_short": "W",
+    "party": "Walwari",
+    "party_short": "W",
     "twitter": "ChTaubira",
     "mentions": [
       "Taubira"
     ],
-    "couleur": "left"
+    "color": "left",
+    "html_color": "#D87794"
   }
 ]
